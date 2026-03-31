@@ -3,7 +3,7 @@ const express = require('express');
 const fs = require('fs');
 
 // ========== НАСТРОЙКИ ==========
-const TOKEN = "8573154507:AAFE7Drx_YDTpa7aNZLu9mD_0sv7s3CvWjU";
+const TOKEN = "8573154507:AAHBwd15btUDSTRHW0z8nCArnJ_nFTXW0Tc";
 const MANAGERS = [8211976202, 6101289439];
 const MANAGER_USERNAME = "prime41ks";
 const REQUIRED_CHANNEL = "@prime_1edits";
